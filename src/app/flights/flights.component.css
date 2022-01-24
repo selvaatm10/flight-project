@@ -1,0 +1,35 @@
+
+.filter-sec{
+    margin: 10px;
+    background-color: white;
+}
+.filter-sec .l-year button{
+    margin: 10px 10px 10px 25px;
+}
+.filter-sec .s-lan button{
+    margin: 10px 10px 10px 15px;
+}
+.flight-sec{
+    background-color: #ededed;
+}
+.flight{
+    padding: 10px;
+}
+.fligh-img{
+    height:200px;
+    width: 100%;
+}
+.btn-color{
+    background-color: #2edb56;
+}
+.btn-color:hover{
+    background-color: #018808;
+}
+
+
+.lan{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
